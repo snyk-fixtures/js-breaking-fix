@@ -8,6 +8,6 @@
     "url": "https://github.com/Snyk/shallow-goof"
   },
   "dependencies": {
-    "semver": "1.0.0"
+    "semver": "4.3.2"
   }
 }

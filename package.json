@@ -1,0 +1,14 @@
+{
+  "name": "js-breaking-fix",
+  "version": "0.0.1",
+  "description": "A vulnerable app whose fix is a breaking change",
+  "homepage": "https://snyk.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snyk-fixtures/js-breaking-fix"
+  },
+  "dependencies": {
+    "ejs": "2.0.3",
+    "semver": "1.0.0"
+  }
+}
